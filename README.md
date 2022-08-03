@@ -6,9 +6,9 @@ Folder Structure of the project:
 
 JavaScript logic:
 
-1- getMovies() — A function to fetch movies from API and returns the results using fetch function.The results will be passed to showMovies() function.
-2- popularMovies() — A function to showcase the results in the browser which basically inserts the HTML code dynamically.The data to this function is passed from the getMovies() function.
-3- An EventListener for search of movies.Once you enter the movie name in the search bar and by clicking on enter will actually submit the form and this event listerner will be triggered.The movie matching the name entered in the search bar will be fetched from the API and it will automatically display all the related title on the list.
+1- getMovies() — A function to fetch movies from API and returns the results using fetch function.The results will be passed to showMovies() function.<br />
+2- popularMovies() — A function to showcase the results in the browser which basically inserts the HTML code dynamically.The data to this function is passed from the getMovies() function.<br />
+3- An EventListener for search of movies.Once you enter the movie name in the search bar and by clicking on enter will actually submit the form and this event listerner will be triggered.The movie matching the name entered in the search bar will be fetched from the API and it will automatically display all the related title on the list.<br />
 
 CSS Styles:
 
