@@ -1,8 +1,8 @@
 Folder Structure of the project:
 
-1- index.html — contains the HTML layout which defines the element structure that would be shown on the page.
-2- style.css- contains CSS code for styling. Using CSS we can style the different portions to make them more visually appealing.
-3- script.js — contains Javascript code to fetch the API data and to represent it on browser.
+1- index.html — contains the HTML layout which defines the element structure that would be shown on the page.<br />
+2- style.css- contains CSS code for styling. Using CSS we can style the different portions to make them more visually appealing.<br />
+3- script.js — contains Javascript code to fetch the API data and to represent it on browser.<br />
 
 JavaScript logic:
 
