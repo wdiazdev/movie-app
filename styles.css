@@ -13,13 +13,13 @@ html {
 
 body {
     background-color: #000000;
-    color: #fff;
+    color: #ffbf00;
     font-family: "Poppins", sans-serif;
 }
 
 .banner {
     background: rgb(0, 0, 0);
-    background: radial-gradient(circle, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 80%, rgba(252, 0, 0, 1) 100%);
+    background: radial-gradient(circle, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 80%, rgba(255, 191, 0, 1) 100%);
     width: 100vw;
     height: 300px;
     display: flex;
@@ -46,7 +46,7 @@ body {
 }
 
 .sign-in a:hover {
-    color: #e30808;
+    color: #ffbf00;
     transition: ease-in .4s;
 }
 
@@ -94,8 +94,8 @@ body {
     font-size: 1rem;
     padding: 10px;
     cursor: pointer;
-    background-color: #b61313;
-    color: #fff;
+    background-color: #ffbf00;
+    color: #000000;
     letter-spacing: 1.5px;
     font-weight: bold;
 }
@@ -111,7 +111,7 @@ body {
     width: 300px;
     background-color: transparent;
     border: none;
-    border-bottom: 2px solid #e30808;
+    border-bottom: 2px solid #ffbf00;
     color: #fff;
     font-size: 1rem;
     padding: 1rem;
@@ -149,9 +149,10 @@ main {
 }
 
 .movie {
-    background-color: #b61313;
+    background-color: #ffbf00;
     border-top: 1px solid #fff;
     border-left: 1px solid #fff;
+    color: #000000;
     border-radius: 10px;
     overflow: hidden;
     position: relative;
@@ -178,7 +179,7 @@ main {
 .overview {
     background-color: #000000;
     color: #fff;
-    border-top: 5px solid #b61313;
+    border-top: 5px solid #ffbf00;
     padding: 2rem;
     position: absolute;
     max-height: 100%;
@@ -195,7 +196,7 @@ main {
 }
 
 .to-top {
-    background-color: #b61313;
+    background-color: #ffbf00;
     position: fixed;
     bottom: 20px;
     right: 20px;
@@ -205,7 +206,7 @@ main {
     border: 3px solid #fff;
     font-size: 30px;
     font-weight: bold;
-    color: #fff;
+    color: #000000;
     display: flex;
     justify-content: center;
     align-items: center;
